@@ -1,4 +1,5 @@
 // 本示例可以很好的帮助我理解 final 与 const 这两种不同的不可变值变量的区别
+// 这个相比于以前一直使用的 JavaScript ，则完全不一样了，我们可以在任何时候创建 const
 void main(List<String> arguments) {
   // 先让用户输入两个参数
   if (arguments.length < 2) {
